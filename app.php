@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BOMJ COIN</title>
+    <title>TRalalacoin</title>
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
     <style>
     body {
@@ -144,7 +144,7 @@
 </head>
 <body>
     <div class="container">
-        <div id="balance">Баланс: <span id="balance_num">0.000000000</span> BMJ</div>
+        <div id="balance">Баланс: <span id="balance_num">0.000000000</span> Trl</div>
         <div id="click-area" class="click-area"></div>
         <div id="leaderboard" class="leaderboard">
             <h2>ТОП-5 Игроков</h2>
